@@ -1,0 +1,9 @@
+<iframe width="450" height="335" src="https://covid19.th-stat.com/th/share/dashboard" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
+
+
+
